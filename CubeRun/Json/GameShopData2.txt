@@ -1,0 +1,1 @@
+[{"ShopName":"cube_hamburger","ShopPrice":20,"IsBuy":true,"IsUse":true},{"ShopName":"cube_sushi","ShopPrice":20,"IsBuy":false,"IsUse":false},{"ShopName":"cube_books","ShopPrice":20,"IsBuy":false,"IsUse":false},{"ShopName":"cube_dice","ShopPrice":20,"IsBuy":false,"IsUse":false},{"ShopName":"cube_watermelon","ShopPrice":20,"IsBuy":false,"IsUse":false}]

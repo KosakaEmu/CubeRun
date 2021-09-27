@@ -1,0 +1,1 @@
+[{"ShopName":cube_watermelon,"ShopPrice":20,"IsBuy":true},{"ShopName":cube_dice,"ShopPrice":20,"IsBuy":false}]

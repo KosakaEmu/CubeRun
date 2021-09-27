@@ -1,0 +1,1 @@
+[{"RankScore":47,"RankTime":"2021/9/1/16:53"},{"RankScore":46,"RankTime":"2021/9/1/17:18"},{"RankScore":23,"RankTime":"2021/9/1/17:17"}]
